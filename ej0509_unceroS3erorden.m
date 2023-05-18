@@ -1,4 +1,4 @@
-% ej0509_unceroS3erorden.m
+1 .1% ej0509_unceroS3erorden.m
 G=tf([2 1],conv([1 0],conv([1 1],[1 2])))
 % Comportamiento esperado
 Mp=0.3;
